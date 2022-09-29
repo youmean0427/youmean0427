@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 ### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youmean0427)](https://solved.ac/youmean0427/)
+
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youmean0427&layout=compact)](https://github.com/youmean0427/github-readme-stats)
