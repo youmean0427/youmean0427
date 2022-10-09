@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youmean0427&layout=compact)](https://github.com/youmean0427/github-readme-stats)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
